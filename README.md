@@ -1,4 +1,4 @@
-# 3analytics
+# 3analytics-task
 
 ## Application is using react v-18
 
