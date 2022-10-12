@@ -6,8 +6,10 @@ To Run Application
 
 - npm i
 - npm start
-  username: admin
-  password: admin@123
+  
+ 
+username: admin
+password: admin@123
 
 Application is divided into many components and using JSON api,
 
